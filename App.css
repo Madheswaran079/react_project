@@ -1,0 +1,18 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+#about{
+    padding-top: 1cm;
+    text-align: center;
+    color: white;
+    height: 100vh;
+    background-image: url(https://rb.gy/duiju);
+    background-size: cover;
+    background-position: center center;
+    opacity: 0.5;
+}
+
+#cs{
+    background-color: #c7bebd;
+    text-align: center;
+    padding-top: 1cm;
+}
